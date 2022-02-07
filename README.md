@@ -11,6 +11,7 @@ A 11ª edição da Semana OmniStack, ocorrida entre 23/03/2020 e 27/03/2020, tro
 Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 
 Layout da aplicação no figma Figma.
+https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1
 
 Para rodar a aplicação
 OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
@@ -25,10 +26,12 @@ Telas
          
 
 Veja também esse vídeo com a demonstração das versões web e mobile rodando localmente.
+https://youtu.be/UygqW2eBJJA
 
 © rocketseat Rocketseat
 
 Instrutor: Diego Fernandes | CTO Rocketseat
+https://github.com/diego3g
 
 Licença
 MIT
